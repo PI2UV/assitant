@@ -1,6 +1,7 @@
 # chat-bot
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. 
+En el ejmplo se muestra como realizar una petición a la API de ChatGPT, de3be crear una API Key en OPENAI y la debe configurar en el archivo ChatView.js en la línea 68
 
 ## Recommended IDE Setup
 
